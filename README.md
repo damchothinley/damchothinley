@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @damchothinley
-- 👀 I’m interested in all the technolgy
+- 👀 I’m interested in coding and machine learning
 - 🌱 I’m currently learning python and django
 - 💞️ I’m looking to collaborate on django project
 - 📫 You can reach by mail: damchothinley@gmail.com
